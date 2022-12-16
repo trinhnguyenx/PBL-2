@@ -1,0 +1,3 @@
+﻿  Room.cpp
+A:\VS.STUDIO\DoAnPbl2\DoAnPbl2\Room.cpp(154,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  DoAnPbl2.vcxproj -> A:\VS.STUDIO\DoAnPbl2\x64\Debug\DoAnPbl2.exe
